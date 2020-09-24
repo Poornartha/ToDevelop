@@ -11,9 +11,9 @@ from email.mime.base import MIMEBase
 
 host = "smtp.gmail.com"
 port = 587
-username = "thomasmullerfc@gmail.com"
-password = "poornartha"
-recipients = "vidyasawantnmims@gmail.com"
+username = "#"
+password = "#"
+recipients = "#"
 
 # Adding and parsing an HTML File within the mail itself.
 # Letting know of possible HTML file
